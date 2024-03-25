@@ -1,0 +1,15 @@
+{
+  "auth": {
+    "username": "admin",
+    "password": "password"
+  },
+  "aws": {
+    "accessKeyId": "YOUR_DYNAMODB_ACCESS_KEY_ID",
+    "secretAccessKey": "YOUR_DYNAMODB_SECRET_ACCESS_KEY",
+    "region": "YOUR_DYNAMODB_REGION"
+  },
+  "azure": {
+    "endpoint": "YOUR_COSMOSDB_ENDPOINT",
+    "key": "YOUR_COSMOSDB_KEY"
+  }
+}
